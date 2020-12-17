@@ -1,0 +1,10 @@
+logging:
+  config: classpath:log4j2.xml
+  level:
+    root: info
+server:
+  port: 8081
+spring:
+  application:
+    name: startserver
+

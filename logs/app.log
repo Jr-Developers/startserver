@@ -1,0 +1,50 @@
+[INFO ] ||2020-12-17 18:02:31:928 [                  i.g.j.d.s.StartserverApplication] [restartedMain] - Starting StartserverApplication using Java 1.8.0_271 on DESKTOP-54DMDGA with PID 16800 (C:\Users\nextree\Desktop\startserver\target\classes started by nextree in C:\Users\nextree\Desktop\startserver)
+[INFO ] ||2020-12-17 18:02:31:944 [                  i.g.j.d.s.StartserverApplication] [restartedMain] - No active profile set, falling back to default profiles: default
+[INFO ] ||2020-12-17 18:02:32:003 [   o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] [restartedMain] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] ||2020-12-17 18:02:32:003 [   o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] [restartedMain] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] ||2020-12-17 18:02:32:997 [         o.s.d.r.c.RepositoryConfigurationDelegate] [restartedMain] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[INFO ] ||2020-12-17 18:02:33:011 [         o.s.d.r.c.RepositoryConfigurationDelegate] [restartedMain] - Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+[WARN ] ||2020-12-17 18:02:33:268 [                    o.m.s.m.ClassPathMapperScanner] [restartedMain] - No MyBatis mapper was found in '[io.github.jr.deveopers.startserver]' package. Please check your configuration.
+[INFO ] ||2020-12-17 18:02:33:350 [                            o.s.c.c.s.GenericScope] [restartedMain] - BeanFactory id=3608b608-0b78-352e-ba25-15821902c261
+[INFO ] ||2020-12-17 18:02:34:251 [                       o.s.b.w.e.t.TomcatWebServer] [restartedMain] - Tomcat initialized with port(s): 8081 (http)
+[INFO ] ||2020-12-17 18:02:34:260 [                         o.a.c.h.Http11NioProtocol] [restartedMain] - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] ||2020-12-17 18:02:34:261 [                           o.a.c.c.StandardService] [restartedMain] - Starting service [Tomcat]
+[INFO ] ||2020-12-17 18:02:34:261 [                            o.a.c.c.StandardEngine] [restartedMain] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+[INFO ] ||2020-12-17 18:02:34:310 [                                 o.a.c.c.C.[.[.[/]] [restartedMain] - Initializing Spring embedded WebApplicationContext
+[INFO ] ||2020-12-17 18:02:34:311 [    o.s.b.w.s.c.ServletWebServerApplicationContext] [restartedMain] - Root WebApplicationContext: initialization completed in 2304 ms
+[INFO ] ||2020-12-17 18:02:34:372 [                            c.z.h.HikariDataSource] [restartedMain] - HikariPool-1 - Starting...
+[INFO ] ||2020-12-17 18:02:34:482 [                            c.z.h.HikariDataSource] [restartedMain] - HikariPool-1 - Start completed.
+[INFO ] ||2020-12-17 18:02:34:489 [              o.s.b.a.h.H2ConsoleAutoConfiguration] [restartedMain] - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:0fa41d44-6eac-4a28-bfa6-1dc6636fbd2c'
+[INFO ] ||2020-12-17 18:02:35:276 [                               o.h.j.i.u.LogHelper] [restartedMain] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] ||2020-12-17 18:02:35:326 [                                       o.h.Version] [restartedMain] - HHH000412: Hibernate ORM core version 5.4.25.Final
+[INFO ] ||2020-12-17 18:02:35:442 [                                   o.h.a.c.Version] [restartedMain] - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[INFO ] ||2020-12-17 18:02:35:652 [                                     o.h.d.Dialect] [restartedMain] - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[INFO ] ||2020-12-17 18:02:35:881 [                o.h.e.t.j.p.i.JtaPlatformInitiator] [restartedMain] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] ||2020-12-17 18:02:35:891 [    o.s.o.j.LocalContainerEntityManagerFactoryBean] [restartedMain] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[WARN ] ||2020-12-17 18:02:35:964 [                o.s.b.d.a.OptionalLiveReloadServer] [restartedMain] - Unable to start LiveReload server
+[WARN ] ||2020-12-17 18:02:36:091 [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] [restartedMain] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[INFO ] ||2020-12-17 18:02:36:298 [                    o.s.s.c.ThreadPoolTaskExecutor] [restartedMain] - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] ||2020-12-17 18:02:37:465 [                         o.a.c.h.Http11NioProtocol] [restartedMain] - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] ||2020-12-17 18:02:37:483 [                       o.s.b.w.e.t.TomcatWebServer] [restartedMain] - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] ||2020-12-17 18:02:38:095 [                  i.g.j.d.s.StartserverApplication] [restartedMain] - Started StartserverApplication in 7.359 seconds (JVM running for 9.282)
+[INFO ] ||2020-12-17 18:02:56:163 [                                 o.a.c.c.C.[.[.[/]] [http-nio-8081-exec-1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] ||2020-12-17 18:02:56:163 [                         o.s.w.s.DispatcherServlet] [http-nio-8081-exec-1] - Initializing Servlet 'dispatcherServlet'
+[INFO ] ||2020-12-17 18:02:56:165 [                         o.s.w.s.DispatcherServlet] [http-nio-8081-exec-1] - Completed initialization in 2 ms
+[INFO ] 86f1c50f38f5e534|86f1c50f38f5e534|2020-12-17 18:02:56:272 [                  i.g.j.d.s.StartserverApplication] [http-nio-8081-exec-1] - [startserver] start
+[INFO ] 86f1c50f38f5e534|86f1c50f38f5e534|2020-12-17 18:02:56:663 [                  i.g.j.d.s.StartserverApplication] [http-nio-8081-exec-1] - [startserver] end : {"userId":"Hello","name":"World"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
